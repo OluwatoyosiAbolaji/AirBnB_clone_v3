@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Author
-Oluwatoyosi Abolaji - [Github]((https://github.com/OluwatoyosiAbolaji)) / [Twitter](@PeterABJ360)  
+Oluwatoyosi Abolaji - [OluwatoyosiAbolaji](https://github.com/OluwatoyosiAbolaji) / [Twitter](@PeterABJ360)  
 
 
